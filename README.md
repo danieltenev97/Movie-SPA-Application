@@ -1,7 +1,7 @@
 # Movie-SPA-Application
-<h1>Single-page application for Software University.</h1>
+<h3>Single-page application for Software University.</h3>
 
-<h1>Developed by Daniel Tenev for Software University’s JS Applications course assignment.</h1>
+<h3>Developed by Daniel Tenev for Software University’s JS Applications course assignment.</h3>
 
 
 <pre>
